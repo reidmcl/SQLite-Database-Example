@@ -1,0 +1,381 @@
+MatchID,Date,HomeTeam,AwayTeam,FTHomeTeamGoals,FTAwayTeamGoals,FullTimeResult,RefereeName,HomeTeamShots,AwayTeamShots,HomeTeamShotsTarget,AwayTeamShotsTarget,HomeTeamYellows,AwayTeamYellows,HomeTeamReds,AwayTeamReds,B365H,B365D,B365A
+1,17/08/13,Arsenal,Aston Villa,1,3,A,A Taylor,16,9,4,4,4,5,1,0,1.44,4.75,8
+2,17/08/13,Liverpool,Stoke City,1,0,H,M Atkinson,26,10,11,4,1,1,0,0,1.4,5,9.5
+3,17/08/13,Norwich City,Everton,2,2,D,M Oliver,8,19,2,6,2,0,0,0,3.2,3.4,2.4
+4,17/08/13,Sunderland,Fulham,0,1,A,N Swarbrick,20,5,3,1,0,3,0,0,2.3,3.4,3.4
+5,17/08/13,Swansea City,Manchester United,1,4,A,P Dowd,17,15,6,7,1,3,0,0,4.2,3.5,2
+6,17/08/13,West Brom,Southampton,0,1,A,K Friend,11,7,1,2,4,0,0,0,2.4,3.4,3.2
+7,17/08/13,West Ham United,Cardiff City,2,0,H,H Webb,18,12,4,1,0,1,0,0,2,3.6,4
+8,18/08/13,Chelsea,Hull City,2,0,H,J Moss,22,7,5,2,0,1,0,0,1.2,7,21
+9,18/08/13,Crystal Palace,Tottenham Hotspur,0,1,A,M Clattenburg,5,17,3,2,1,0,0,0,4.75,3.75,1.83
+10,19/08/13,Manchester City,Newcastle United,4,0,H,A Marriner,20,5,11,1,2,3,0,1,1.33,5.5,11
+11,21/08/13,Chelsea,Aston Villa,2,1,H,K Friend,15,7,3,3,1,4,0,0,1.29,5.5,10
+12,24/08/13,Aston Villa,Liverpool,0,1,A,M Clattenburg,17,5,3,1,3,3,0,0,4,3.75,1.95
+13,24/08/13,Everton,West Brom,0,0,D,R East,22,7,8,2,1,1,0,0,1.57,4.33,6.5
+14,24/08/13,Fulham,Arsenal,1,3,A,H Webb,16,18,7,7,2,2,0,0,3.8,3.5,2.1
+15,24/08/13,Hull City,Norwich City,1,0,H,M Jones,6,13,1,4,1,1,1,0,2.45,3.4,3.1
+16,24/08/13,Newcastle United,West Ham United,0,0,D,P Dowd,16,6,0,1,0,1,0,0,2.3,3.4,3.4
+17,24/08/13,Southampton,Sunderland,1,1,D,L Mason,17,8,6,3,2,2,0,0,1.73,3.8,5.5
+18,24/08/13,Stoke City,Crystal Palace,2,1,H,A Marriner,14,14,5,5,3,0,0,0,1.83,3.6,5
+19,25/08/13,Cardiff City,Manchester City,3,2,H,L Probert,9,16,6,5,0,0,0,0,8.5,4.75,1.44
+20,25/08/13,Tottenham Hotspur,Swansea City,1,0,H,N Swarbrick,19,7,5,5,1,4,0,0,1.62,4,6.5
+21,26/08/13,Manchester United,Chelsea,0,0,D,M Atkinson,13,8,3,4,0,2,0,0,2.45,3.4,3.1
+22,31/08/13,Cardiff City,Everton,0,0,D,A Taylor,4,13,1,3,1,1,0,0,3.25,3.4,2.38
+23,31/08/13,Crystal Palace,Sunderland,3,1,H,L Probert,17,10,6,2,1,0,0,1,2.6,3.3,3
+24,31/08/13,Manchester City,Hull City,2,0,H,P Dowd,12,7,6,2,2,3,0,0,1.17,8.5,19
+25,31/08/13,Newcastle United,Fulham,1,0,H,C Foy,24,3,9,2,2,2,0,0,2.15,3.4,3.75
+26,31/08/13,Norwich City,Southampton,1,0,H,H Webb,15,11,4,2,0,0,0,0,3,3.3,2.55
+27,31/08/13,West Ham United,Stoke City,0,1,A,J Moss,9,15,0,5,2,1,0,0,2,3.4,4.33
+28,1/9/13,Arsenal,Tottenham Hotspur,1,0,H,M Oliver,12,14,5,4,2,2,0,0,2.1,3.7,3.6
+29,1/9/13,Liverpool,Manchester United,1,0,H,A Marriner,10,10,5,4,2,4,0,0,2.63,3.4,2.88
+30,1/9/13,West Brom,Swansea City,0,2,A,M Dean,10,12,1,4,4,3,0,0,2.7,3.4,2.8
+31,14/09/13,Aston Villa,Newcastle United,1,2,A,M Dean,10,17,1,8,1,4,0,0,2.15,3.4,3.8
+32,14/09/13,Everton,Chelsea,1,0,H,H Webb,11,22,5,5,0,4,0,0,3.4,3.3,2.35
+33,14/09/13,Fulham,West Brom,1,1,D,L Probert,12,12,2,4,0,1,0,0,2.15,3.5,3.6
+34,14/09/13,Hull City,Cardiff City,1,1,D,R Madley,18,10,5,2,1,2,0,0,2.45,3.25,3.25
+35,14/09/13,Manchester United,Crystal Palace,2,0,H,J Moss,19,4,7,0,1,2,0,1,1.22,7,16
+36,14/09/13,Stoke City,Manchester City,0,0,D,M Clattenburg,11,10,3,3,1,1,0,0,6,4,1.65
+37,14/09/13,Sunderland,Arsenal,1,3,A,M Atkinson,17,14,2,6,1,2,0,0,6,3.9,1.67
+38,14/09/13,Tottenham Hotspur,Norwich City,2,0,H,L Mason,23,4,7,1,1,3,0,0,1.45,4.75,8
+39,15/09/13,Southampton,West Ham United,0,0,D,A Marriner,15,6,5,1,1,3,0,0,1.85,3.6,4.75
+40,16/09/13,Swansea City,Liverpool,2,2,D,M Oliver,17,12,8,5,2,3,0,0,3.5,3.5,2.2
+41,21/09/13,Chelsea,Fulham,2,0,H,A Marriner,26,4,10,1,0,0,0,0,1.3,5.75,12
+42,21/09/13,Liverpool,Southampton,0,1,A,N Swarbrick,10,12,5,7,0,1,0,0,1.6,4,6.5
+43,21/09/13,Newcastle United,Hull City,2,3,A,M Atkinson,15,12,2,5,1,1,0,0,1.85,3.5,5
+44,21/09/13,Norwich City,Aston Villa,0,1,A,C Foy,12,16,1,4,1,0,0,0,2.4,3.4,3.2
+45,21/09/13,West Brom,Sunderland,3,0,H,P Dowd,13,7,4,0,0,2,0,0,2.05,3.4,4.2
+46,21/09/13,West Ham United,Everton,2,3,A,L Mason,9,10,1,4,2,1,1,0,3.3,3.3,2.4
+47,22/09/13,Arsenal,Stoke City,3,1,H,M Dean,16,9,8,3,0,2,0,0,1.36,5.25,10
+48,22/09/13,Cardiff City,Tottenham Hotspur,0,1,A,M Clattenburg,6,29,0,12,1,4,0,0,4.5,3.6,1.91
+49,22/09/13,Crystal Palace,Swansea City,0,2,A,K Friend,9,15,1,7,2,2,0,0,3.5,3.4,2.25
+50,22/09/13,Manchester City,Manchester United,4,1,H,H Webb,18,14,5,3,1,2,0,0,2.2,3.4,3.6
+51,28/09/13,Aston Villa,Manchester City,3,2,H,M Jones,8,20,4,7,1,1,0,0,6.5,4.2,1.57
+52,28/09/13,Fulham,Cardiff City,1,2,A,C Pawson,9,22,5,4,1,1,0,0,2.1,3.4,3.9
+53,28/09/13,Hull City,West Ham United,1,0,H,K Friend,9,18,2,5,1,2,0,0,2.38,3.3,3.3
+54,28/09/13,Manchester United,West Brom,1,2,A,M Oliver,14,12,6,4,3,2,0,0,1.3,5.75,12
+55,28/09/13,Southampton,Crystal Palace,2,0,H,M Atkinson,12,8,3,0,1,2,0,0,1.45,4.5,8.5
+56,28/09/13,Swansea City,Arsenal,1,2,A,M Clattenburg,10,10,3,4,3,2,0,0,3.2,3.4,2.38
+57,28/09/13,Tottenham Hotspur,Chelsea,1,1,D,M Dean,12,11,4,5,5,1,0,1,2.7,3.3,2.88
+58,29/09/13,Stoke City,Norwich City,0,1,A,A Taylor,8,8,1,3,2,1,0,0,1.95,3.4,4.5
+59,29/09/13,Sunderland,Liverpool,1,3,A,H Webb,23,15,5,6,2,1,0,0,5.5,3.9,1.7
+60,30/09/13,Everton,Newcastle United,3,2,H,P Dowd,18,15,7,6,3,1,0,0,1.65,4,6
+61,5/10/13,Cardiff City,Newcastle United,1,2,A,K Friend,8,20,2,10,1,0,0,0,2.45,3.4,3.1
+62,5/10/13,Fulham,Stoke City,1,0,H,R East,9,16,2,3,3,2,0,0,2.4,3.3,3.3
+63,5/10/13,Hull City,Aston Villa,0,0,D,M Clattenburg,6,18,1,4,2,1,0,0,2.45,3.3,3.2
+64,5/10/13,Liverpool,Crystal Palace,3,1,H,A Taylor,13,11,7,2,2,1,0,0,1.2,7.5,17
+65,5/10/13,Manchester City,Everton,3,1,H,J Moss,12,6,6,4,5,4,0,0,1.67,4.2,5.5
+66,5/10/13,Sunderland,Manchester United,1,2,A,C Foy,6,13,2,6,2,4,0,0,6,4,1.65
+67,6/10/13,Norwich City,Chelsea,1,3,A,N Swarbrick,14,22,3,8,1,1,0,0,6.5,4,1.62
+68,6/10/13,Southampton,Swansea City,2,0,H,M Dean,12,17,4,7,3,1,0,0,2.1,3.5,3.8
+69,6/10/13,Tottenham Hotspur,West Ham United,0,3,A,L Probert,14,16,4,5,0,0,0,0,1.44,4.75,8.5
+70,6/10/13,West Brom,Arsenal,1,1,D,L Mason,12,14,4,5,1,2,0,0,4.9,4,1.75
+71,19/10/13,Arsenal,Norwich City,4,1,H,L Probert,20,12,11,6,0,0,0,0,1.29,6,12
+72,19/10/13,Chelsea,Cardiff City,4,1,H,A Taylor,20,13,7,3,1,2,0,0,1.25,6.5,15
+73,19/10/13,Everton,Hull City,2,1,H,N Swarbrick,14,9,6,1,3,1,0,0,1.45,4.5,9
+74,19/10/13,Manchester United,Southampton,1,1,D,M Jones,12,18,5,7,2,3,0,0,1.57,4.33,6.5
+75,19/10/13,Newcastle United,Liverpool,2,2,D,A Marriner,14,23,4,7,2,3,1,0,4.5,3.9,1.83
+76,19/10/13,Stoke City,West Brom,0,0,D,H Webb,9,12,3,5,1,0,0,0,2.3,3.3,3.5
+77,19/10/13,Swansea City,Sunderland,4,0,H,C Pawson,14,6,6,1,1,2,0,0,1.62,4,6.5
+78,19/10/13,West Ham United,Manchester City,1,3,A,M Oliver,11,16,2,9,1,2,0,0,5.5,3.8,1.73
+79,20/10/13,Aston Villa,Tottenham Hotspur,0,2,A,P Dowd,15,13,2,6,3,4,0,0,4,3.5,2.05
+80,21/10/13,Crystal Palace,Fulham,1,4,A,L Mason,14,9,4,6,0,1,0,0,2.75,3.3,2.8
+81,26/10/13,Aston Villa,Everton,0,2,A,A Taylor,14,15,3,4,0,2,0,0,3.4,3.4,2.3
+82,26/10/13,Crystal Palace,Arsenal,0,2,A,C Foy,13,10,4,4,0,0,0,1,11,5,1.36
+83,26/10/13,Liverpool,West Brom,4,1,H,J Moss,18,15,7,3,0,2,0,0,1.44,4.75,8
+84,26/10/13,Manchester United,Stoke City,3,2,H,L Mason,19,10,5,5,2,6,0,0,1.33,5.5,11
+85,26/10/13,Norwich City,Cardiff City,0,0,D,M Jones,31,6,10,4,1,1,0,0,2.2,3.4,3.6
+86,26/10/13,Southampton,Fulham,2,0,H,A Marriner,20,1,6,0,0,2,0,0,1.62,4,6.5
+87,27/10/13,Chelsea,Manchester City,2,1,H,H Webb,12,15,4,6,2,3,0,0,2.38,3.4,3.2
+88,27/10/13,Sunderland,Newcastle United,2,1,H,L Probert,8,16,4,4,1,1,0,0,2.9,3.3,2.63
+89,27/10/13,Swansea City,West Ham United,0,0,D,P Dowd,10,15,5,4,1,3,0,0,1.75,3.8,5.25
+90,27/10/13,Tottenham Hotspur,Hull City,1,0,H,M Oliver,15,10,6,4,3,3,0,0,1.44,4.75,8
+91,2/11/13,Arsenal,Liverpool,2,0,H,M Atkinson,12,12,7,4,2,1,0,0,2.3,3.5,3.3
+92,2/11/13,Fulham,Manchester United,1,3,A,L Probert,15,10,6,4,2,1,0,0,6.5,4.2,1.57
+93,2/11/13,Hull City,Sunderland,1,0,H,A Marriner,25,9,2,1,2,0,0,2,2.15,3.4,3.8
+94,2/11/13,Manchester City,Norwich City,7,0,H,P Dowd,27,7,9,1,1,1,0,0,1.2,7.5,18
+95,2/11/13,Newcastle United,Chelsea,2,0,H,L Mason,15,13,8,2,2,2,0,0,6,4.2,1.62
+96,2/11/13,Stoke City,Southampton,1,1,D,C Foy,9,10,3,2,3,1,0,0,3.3,3.3,2.4
+97,2/11/13,West Brom,Crystal Palace,2,0,H,N Swarbrick,9,12,4,4,0,1,0,0,1.55,4.2,7
+98,2/11/13,West Ham United,Aston Villa,0,0,D,H Webb,17,8,4,2,0,2,0,0,2.25,3.5,3.4
+99,3/11/13,Cardiff City,Swansea City,1,0,H,M Dean,9,10,3,3,1,1,0,1,3.4,3.4,2.3
+100,3/11/13,Everton,Tottenham Hotspur,0,0,D,K Friend,8,16,1,6,4,1,0,0,2.5,3.4,3
+101,9/11/13,Aston Villa,Cardiff City,2,0,H,M Atkinson,17,8,6,2,1,1,0,0,2,3.5,4.2
+102,9/11/13,Chelsea,West Brom,2,2,D,L Probert,17,11,7,3,3,7,0,0,1.29,6,12
+103,9/11/13,Crystal Palace,Everton,0,0,D,C Pawson,9,15,2,2,1,0,0,0,6.5,4,1.62
+104,9/11/13,Liverpool,Fulham,4,0,H,M Jones,32,4,10,1,0,1,0,0,1.25,6.5,15
+105,9/11/13,Norwich City,West Ham United,3,1,H,J Moss,15,12,6,4,1,1,0,0,2.63,3.3,2.9
+106,9/11/13,Southampton,Hull City,4,1,H,H Webb,15,10,7,2,1,2,0,0,1.62,3.8,7
+107,10/11/13,Manchester United,Arsenal,1,0,H,M Oliver,5,10,2,2,2,3,0,0,2.35,3.5,3.2
+108,10/11/13,Sunderland,Manchester City,1,0,H,M Dean,5,24,2,4,0,1,0,0,9,5,1.4
+109,10/11/13,Swansea City,Stoke City,3,3,D,R Madley,17,6,6,3,5,3,0,0,2,3.4,4.33
+110,10/11/13,Tottenham Hotspur,Newcastle United,0,1,A,C Foy,31,8,14,4,1,2,0,0,1.57,4.33,6.5
+111,23/11/13,Arsenal,Southampton,2,0,H,M Clattenburg,9,10,4,4,0,3,0,0,1.62,4.2,6
+112,23/11/13,Everton,Liverpool,3,3,D,P Dowd,18,11,12,5,4,3,0,0,3,3.4,2.5
+113,23/11/13,Fulham,Swansea City,1,2,A,A Marriner,9,21,3,5,3,1,0,0,3.3,3.3,2.38
+114,23/11/13,Hull City,Crystal Palace,0,1,A,A Taylor,15,9,2,2,2,1,0,1,1.85,3.5,5
+115,23/11/13,Newcastle United,Norwich City,2,1,H,M Dean,21,10,5,2,0,1,0,0,1.8,3.8,4.75
+116,23/11/13,Stoke City,Sunderland,2,0,H,K Friend,17,11,5,3,2,1,0,1,2.15,3.3,3.9
+117,23/11/13,West Ham United,Chelsea,0,3,A,C Foy,8,20,1,8,0,0,0,0,6,4.2,1.62
+118,24/11/13,Cardiff City,Manchester United,2,2,D,N Swarbrick,14,16,4,5,4,2,0,0,6,4,1.65
+119,24/11/13,Manchester City,Tottenham Hotspur,6,0,H,M Atkinson,15,13,10,5,1,3,0,0,1.7,4,5.5
+120,25/11/13,West Brom,Aston Villa,2,2,D,M Oliver,11,15,4,7,1,2,0,0,2.15,3.4,3.8
+121,30/11/13,Aston Villa,Sunderland,0,0,D,N Swarbrick,13,7,4,1,2,1,0,0,2,3.4,4.33
+122,30/11/13,Cardiff City,Arsenal,0,3,A,L Mason,10,15,4,6,0,3,0,0,6.5,4,1.62
+123,30/11/13,Everton,Stoke City,4,0,H,M Jones,22,4,12,3,0,3,0,0,1.62,4,6.25
+124,30/11/13,Newcastle United,West Brom,2,1,H,P Dowd,14,14,6,1,1,2,0,0,2.05,3.5,4
+125,30/11/13,Norwich City,Crystal Palace,1,0,H,C Foy,10,13,3,3,1,2,0,0,2,3.4,4.33
+126,30/11/13,West Ham United,Fulham,3,0,H,M Atkinson,23,10,12,0,3,2,0,0,1.91,3.5,4.6
+127,1/12/13,Chelsea,Southampton,3,1,H,M Oliver,16,9,7,1,1,4,0,0,1.57,4.2,6.5
+128,1/12/13,Hull City,Liverpool,3,1,H,H Webb,12,9,4,4,2,0,0,0,6.5,4,1.62
+129,1/12/13,Manchester City,Swansea City,3,0,H,M Clattenburg,22,9,7,4,1,0,0,0,1.29,6,13
+130,1/12/13,Tottenham Hotspur,Manchester United,2,2,D,M Dean,10,8,4,3,1,3,0,0,2.8,3.5,2.63
+131,3/12/13,Crystal Palace,West Ham United,1,0,H,L Mason,10,11,5,2,1,2,0,0,3.25,3.3,2.4
+132,4/12/13,Arsenal,Hull City,2,0,H,A Marriner,20,7,7,2,0,0,0,0,1.2,7.5,17
+133,4/12/13,Fulham,Tottenham Hotspur,1,2,A,M Clattenburg,16,18,6,5,2,1,0,0,5.8,3.9,1.67
+134,4/12/13,Liverpool,Norwich City,5,1,H,A Taylor,28,14,12,5,3,1,0,0,1.29,6,12
+135,4/12/13,Manchester United,Everton,0,1,A,M Atkinson,18,15,6,4,2,0,0,0,1.73,3.75,5.5
+136,4/12/13,Southampton,Aston Villa,2,3,A,J Moss,21,6,9,3,3,2,0,0,1.7,3.8,5.75
+137,4/12/13,Stoke City,Cardiff City,0,0,D,M Oliver,17,14,2,3,2,2,0,0,2.1,3.4,4
+138,4/12/13,Sunderland,Chelsea,3,4,A,P Dowd,12,19,3,5,4,3,0,0,6.5,4.33,1.55
+139,4/12/13,Swansea City,Newcastle United,3,0,H,H Webb,13,14,5,3,0,2,0,0,2.2,3.5,3.5
+140,4/12/13,West Brom,Manchester City,2,3,A,C Foy,12,15,1,5,1,1,0,0,6,4.2,1.62
+141,7/12/13,Crystal Palace,Cardiff City,2,0,H,M Jones,19,10,5,2,0,0,0,0,2.8,3.3,2.75
+142,7/12/13,Liverpool,West Ham United,4,1,H,M Oliver,32,8,9,1,0,3,0,1,1.29,6,12
+143,7/12/13,Manchester United,Newcastle United,0,1,A,A Marriner,8,9,4,3,0,2,0,0,1.53,4.33,7
+144,7/12/13,Southampton,Manchester City,1,1,D,A Taylor,15,13,4,3,0,2,0,0,5.25,3.8,1.75
+145,7/12/13,Stoke City,Chelsea,3,2,H,J Moss,9,15,3,6,4,1,0,0,6.5,4.2,1.57
+146,7/12/13,Sunderland,Tottenham Hotspur,1,2,A,L Mason,11,22,4,5,2,0,0,0,4.5,3.6,1.91
+147,7/12/13,West Brom,Norwich City,0,2,A,M Clattenburg,26,8,12,3,1,3,0,0,1.8,3.75,5
+148,8/12/13,Arsenal,Everton,1,1,D,H Webb,11,12,5,4,0,4,0,0,1.7,3.8,5.75
+149,8/12/13,Fulham,Aston Villa,2,0,H,M Dean,22,10,10,2,0,2,0,0,2.75,3.3,2.8
+150,9/12/13,Swansea City,Hull City,1,1,D,M Atkinson,11,9,2,2,3,3,0,0,1.75,3.75,5.5
+151,14/12/13,Cardiff City,West Brom,1,0,H,H Webb,11,12,3,2,2,1,0,0,2.63,3.4,2.88
+152,14/12/13,Chelsea,Crystal Palace,2,1,H,M Clattenburg,16,10,7,5,2,1,0,0,1.18,8,19
+153,14/12/13,Everton,Fulham,4,1,H,A Taylor,22,16,7,3,1,2,0,0,1.36,5,10.5
+154,14/12/13,Hull City,Stoke City,0,0,D,M Dean,13,11,4,2,1,0,0,0,2.3,3.3,3.5
+155,14/12/13,Manchester City,Arsenal,6,3,H,M Atkinson,22,12,7,6,2,1,0,0,1.83,3.75,4.75
+156,14/12/13,Newcastle United,Southampton,1,1,D,M Jones,16,8,5,3,1,2,0,0,2.4,3.4,3.2
+157,14/12/13,West Ham United,Sunderland,0,0,D,A Marriner,11,19,2,6,1,0,0,0,1.95,3.6,4.33
+158,15/12/13,Aston Villa,Manchester United,0,3,A,C Foy,17,14,6,5,4,2,0,0,5.25,3.8,1.75
+159,15/12/13,Norwich City,Swansea City,1,1,D,M Oliver,16,10,3,2,0,3,0,0,2.88,3.3,2.7
+160,15/12/13,Tottenham Hotspur,Liverpool,0,5,A,J Moss,9,21,0,10,3,0,1,0,2.5,3.4,3
+161,21/12/13,Crystal Palace,Newcastle United,0,3,A,N Swarbrick,9,13,4,6,1,2,0,0,3.25,3.4,2.38
+162,21/12/13,Fulham,Manchester City,2,4,A,K Friend,12,17,5,10,1,1,0,0,9.5,5.25,1.36
+163,21/12/13,Liverpool,Cardiff City,3,1,H,L Probert,27,10,7,3,2,0,0,0,1.2,7.5,16
+164,21/12/13,Manchester United,West Ham United,3,1,H,M Jones,21,4,8,1,1,4,0,0,1.36,5.25,10
+165,21/12/13,Stoke City,Aston Villa,2,1,H,C Pawson,12,14,2,4,1,5,0,0,2.3,3.25,3.5
+166,21/12/13,Sunderland,Norwich City,0,0,D,M Atkinson,18,14,4,5,2,1,1,0,2.05,3.5,4
+167,21/12/13,West Brom,Hull City,1,1,D,J Moss,14,6,3,3,2,1,0,0,1.95,3.5,4.5
+168,22/12/13,Southampton,Tottenham Hotspur,2,3,A,C Foy,12,13,5,3,1,1,0,0,2.55,3.3,3
+169,22/12/13,Swansea City,Everton,1,2,A,L Mason,13,14,3,6,1,0,0,0,3,3.4,2.5
+170,23/12/13,Arsenal,Chelsea,0,0,D,M Dean,7,13,2,4,2,1,0,0,2.38,3.4,3.25
+171,26/12/13,Aston Villa,Crystal Palace,0,1,A,H Webb,10,12,4,7,2,2,0,0,1.91,3.5,4.5
+172,26/12/13,Cardiff City,Southampton,0,3,A,A Marriner,9,11,0,6,1,2,0,0,3.3,3.3,2.38
+173,26/12/13,Chelsea,Swansea City,1,0,H,M Jones,19,8,7,1,1,0,0,0,1.33,5.5,10
+174,26/12/13,Everton,Sunderland,0,1,A,L Probert,26,13,9,6,1,0,1,0,1.36,5.25,9.5
+175,26/12/13,Hull City,Manchester United,2,3,A,M Oliver,17,13,5,4,2,2,0,1,7,4.2,1.55
+176,26/12/13,Manchester City,Liverpool,2,1,H,L Mason,20,12,6,5,1,3,0,0,1.75,4.2,4.6
+177,26/12/13,Newcastle United,Stoke City,5,1,H,M Atkinson,27,11,8,3,1,1,0,2,1.75,3.8,5.25
+178,26/12/13,Norwich City,Fulham,1,2,A,J Moss,12,15,3,7,3,0,0,0,2.05,3.5,4
+179,26/12/13,Tottenham Hotspur,West Brom,1,1,D,A Taylor,20,7,3,4,3,2,0,0,1.53,4.33,7
+180,26/12/13,West Ham United,Arsenal,1,3,A,P Dowd,12,29,5,8,1,1,0,0,6.5,4,1.62
+181,28/12/13,Aston Villa,Swansea City,1,1,D,R East,7,17,3,3,3,2,0,0,3,3.3,2.55
+182,28/12/13,Cardiff City,Sunderland,2,2,D,C Foy,16,21,7,9,3,2,0,0,2.38,3.25,3.4
+183,28/12/13,Hull City,Fulham,6,0,H,R Madley,21,5,13,2,0,0,0,0,2.05,3.4,4.1
+184,28/12/13,Manchester City,Crystal Palace,1,0,H,A Marriner,23,9,4,4,1,1,0,0,1.13,9.5,29
+185,28/12/13,Norwich City,Manchester United,0,1,A,P Dowd,15,7,4,3,4,3,0,0,6.5,4.2,1.57
+186,28/12/13,West Ham United,West Brom,3,3,D,M Dean,16,22,6,7,3,2,0,0,2.38,3.4,3.25
+187,29/12/13,Chelsea,Liverpool,2,1,H,H Webb,11,8,5,4,4,1,0,0,2.2,3.5,3.5
+188,29/12/13,Everton,Southampton,2,1,H,M Clattenburg,9,12,4,2,2,4,0,0,1.83,3.7,4.75
+189,29/12/13,Newcastle United,Arsenal,0,1,A,L Probert,11,11,3,5,0,3,0,0,4,3.7,2
+190,29/12/13,Tottenham Hotspur,Stoke City,3,0,H,K Friend,20,2,7,1,2,2,0,0,1.44,4.33,8
+191,1/1/14,Arsenal,Cardiff City,2,0,H,J Moss,28,8,6,2,1,2,0,0,1.29,6,13
+192,1/1/14,Crystal Palace,Norwich City,1,1,D,M Dean,13,8,4,5,2,1,0,1,2.38,3.3,3.3
+193,1/1/14,Fulham,West Ham United,2,1,H,M Clattenburg,30,11,11,3,2,1,0,1,2.5,3.3,3.1
+194,1/1/14,Liverpool,Hull City,2,0,H,C Pawson,17,10,6,0,1,2,0,0,1.3,6,11
+195,1/1/14,Manchester United,Tottenham Hotspur,1,2,A,H Webb,16,9,6,4,2,1,0,0,1.8,3.8,4.75
+196,1/1/14,Southampton,Chelsea,0,3,A,M Atkinson,12,11,2,5,4,1,0,0,4,3.5,2.05
+197,1/1/14,Stoke City,Everton,1,1,D,A Marriner,10,16,4,4,4,1,0,0,4,3.3,2.1
+198,1/1/14,Sunderland,Aston Villa,0,1,A,M Jones,17,13,1,5,4,3,0,0,2.15,3.4,3.75
+199,1/1/14,Swansea City,Manchester City,2,3,A,P Dowd,15,14,4,4,2,5,0,0,5.75,4.25,1.62
+200,1/1/14,West Brom,Newcastle United,1,0,H,L Mason,13,9,4,3,0,0,0,1,2.6,3.4,2.88
+201,11/1/14,Cardiff City,West Ham United,0,2,A,L Mason,19,10,7,3,1,3,0,1,2,3.5,4.1
+202,11/1/14,Everton,Norwich City,2,0,H,K Friend,23,12,5,3,1,2,0,0,1.4,5,9
+203,11/1/14,Fulham,Sunderland,1,4,A,M Dean,17,10,5,6,3,3,0,0,2.2,3.3,3.75
+204,11/1/14,Hull City,Chelsea,0,2,A,M Clattenburg,10,14,2,5,2,1,0,0,6.5,4,1.6
+205,11/1/14,Manchester United,Swansea City,2,0,H,C Foy,16,13,5,2,0,2,0,0,1.57,4,7
+206,11/1/14,Southampton,West Brom,1,0,H,H Webb,18,4,5,2,1,2,0,0,1.83,3.7,4.75
+207,11/1/14,Tottenham Hotspur,Crystal Palace,2,0,H,M Oliver,10,14,4,2,1,2,0,0,1.36,5,10
+208,12/1/14,Newcastle United,Manchester City,0,2,A,M Jones,13,14,5,6,4,2,0,0,5.25,4,1.7
+209,12/1/14,Stoke City,Liverpool,3,5,A,A Taylor,13,13,4,9,1,1,0,0,5.75,4,1.67
+210,13/01/14,Aston Villa,Arsenal,1,2,A,N Swarbrick,11,8,5,4,2,2,0,0,6,4.2,1.62
+211,18/01/14,Arsenal,Fulham,2,0,H,L Probert,22,8,8,2,0,0,0,0,1.22,7,15
+212,18/01/14,Crystal Palace,Stoke City,1,0,H,M Clattenburg,12,17,6,2,0,2,0,0,2.35,3.2,3.5
+213,18/01/14,Liverpool,Aston Villa,2,2,D,J Moss,14,12,6,3,1,4,0,0,1.22,7,15
+214,18/01/14,Manchester City,Cardiff City,4,2,H,N Swarbrick,24,7,9,6,2,0,0,0,1.13,11,23
+215,18/01/14,Norwich City,Hull City,1,0,H,H Webb,25,10,4,0,1,2,0,1,2.4,3.3,3.25
+216,18/01/14,Sunderland,Southampton,2,2,D,C Foy,10,17,5,8,2,0,0,0,3.2,3.3,2.45
+217,18/01/14,West Ham United,Newcastle United,1,3,A,A Marriner,11,19,2,9,0,0,0,0,3,3.4,2.5
+218,19/01/14,Chelsea,Manchester United,3,1,H,P Dowd,13,10,6,4,1,3,0,1,1.73,3.8,5.5
+219,19/01/14,Swansea City,Tottenham Hotspur,1,3,A,M Atkinson,13,11,3,5,2,1,0,0,3.25,3.4,2.38
+220,20/01/14,West Brom,Everton,1,1,D,M Oliver,14,13,6,4,3,2,0,0,3.5,3.4,2.25
+221,28/01/14,Crystal Palace,Hull City,1,0,H,R East,13,13,3,4,4,0,0,1,2.5,3.2,3.2
+222,28/01/14,Liverpool,Everton,4,0,H,M Atkinson,20,18,9,4,0,3,0,0,1.83,3.9,4.5
+223,28/01/14,Manchester United,Cardiff City,2,0,H,C Pawson,17,7,5,1,0,1,0,0,1.25,6.5,15
+224,28/01/14,Norwich City,Newcastle United,0,0,D,C Foy,9,22,2,3,1,1,1,1,2.7,3.4,2.8
+225,28/01/14,Southampton,Arsenal,2,2,D,L Mason,13,7,5,4,1,1,0,1,4.33,3.5,1.95
+226,28/01/14,Swansea City,Fulham,2,0,H,M Oliver,14,15,7,4,1,1,0,0,1.75,3.75,5.25
+227,29/01/14,Aston Villa,West Brom,4,3,H,M Clattenburg,10,12,6,4,1,3,0,0,2.6,3.3,3
+228,29/01/14,Chelsea,West Ham United,0,0,D,N Swarbrick,39,1,9,1,1,3,0,0,1.18,8,19
+229,29/01/14,Sunderland,Stoke City,1,0,H,R Madley,16,14,6,5,2,2,0,1,2.1,3.4,3.9
+230,29/01/14,Tottenham Hotspur,Manchester City,1,5,A,A Marriner,4,24,2,10,1,4,1,0,3.75,3.75,2.05
+231,1/2/14,Cardiff City,Norwich City,2,1,H,M Clattenburg,14,27,5,6,1,4,0,0,2.3,3.4,3.4
+232,1/2/14,Everton,Aston Villa,2,1,H,R Madley,13,4,6,1,1,0,0,0,1.53,4.33,7
+233,1/2/14,Fulham,Southampton,0,3,A,M Jones,8,17,4,5,0,3,0,0,3.6,3.4,2.2
+234,1/2/14,Hull City,Tottenham Hotspur,1,1,D,A Taylor,9,19,4,3,1,1,0,0,4,3.5,2.05
+235,1/2/14,Newcastle United,Sunderland,0,3,A,P Dowd,28,16,10,5,2,2,0,0,1.95,3.5,4.33
+236,1/2/14,Stoke City,Manchester United,2,1,H,N Swarbrick,13,19,6,4,2,2,0,0,7,4,1.57
+237,1/2/14,West Ham United,Swansea City,2,0,H,H Webb,11,20,4,0,1,0,1,0,2.9,3.4,2.6
+238,2/2/14,Arsenal,Crystal Palace,2,0,H,J Moss,11,10,6,2,1,2,0,0,1.22,7,16
+239,2/2/14,West Brom,Liverpool,1,1,D,K Friend,12,12,4,3,4,2,0,0,5.75,4.33,1.62
+240,3/2/14,Manchester City,Chelsea,0,1,A,M Dean,25,18,3,6,3,3,0,0,1.85,3.8,4.5
+241,8/2/14,Aston Villa,West Ham United,0,2,A,M Dean,16,10,1,2,0,2,0,0,2.1,3.5,3.8
+242,8/2/14,Chelsea,Newcastle United,3,0,H,H Webb,18,12,8,6,0,3,0,0,1.25,6.25,15
+243,8/2/14,Crystal Palace,West Brom,3,1,H,C Foy,10,16,6,6,0,3,0,0,2.6,3.3,3
+244,8/2/14,Liverpool,Arsenal,5,1,H,M Oliver,22,11,12,6,1,2,0,0,2.2,3.6,3.4
+245,8/2/14,Norwich City,Manchester City,0,0,D,J Moss,7,15,2,2,2,1,0,0,9,5.5,1.36
+246,8/2/14,Southampton,Stoke City,2,2,D,C Pawson,17,5,5,4,0,4,0,0,1.55,4,7.5
+247,8/2/14,Sunderland,Hull City,0,2,A,M Jones,7,25,3,9,1,3,1,0,2.15,3.4,3.8
+248,8/2/14,Swansea City,Cardiff City,3,0,H,A Marriner,17,7,6,1,1,1,0,0,1.85,3.6,4.75
+249,9/2/14,Manchester United,Fulham,2,2,D,K Friend,31,6,9,3,0,0,0,0,1.2,7,19
+250,9/2/14,Tottenham Hotspur,Everton,1,0,H,M Clattenburg,8,11,2,3,1,0,0,0,2.1,3.5,3.75
+251,11/2/14,Cardiff City,Aston Villa,0,0,D,C Foy,12,18,3,6,0,0,0,0,2.5,3.4,3
+252,11/2/14,Hull City,Southampton,0,1,A,M Atkinson,12,16,4,7,0,3,0,0,3,3.25,2.6
+253,11/2/14,West Brom,Chelsea,1,1,D,A Taylor,12,15,1,4,3,4,0,0,7.5,4.5,1.5
+254,11/2/14,West Ham United,Norwich City,2,0,H,M Oliver,12,13,7,6,1,3,0,0,2.05,3.5,4
+255,12/2/14,Arsenal,Manchester United,0,0,D,M Clattenburg,17,6,5,2,1,2,0,0,2.15,3.5,3.6
+256,12/2/14,Fulham,Liverpool,2,3,A,P Dowd,10,21,3,7,4,3,0,0,8,5.25,1.4
+257,12/2/14,Newcastle United,Tottenham Hotspur,0,4,A,N Swarbrick,13,15,5,8,0,0,0,0,3.3,3.5,2.3
+258,12/2/14,Stoke City,Swansea City,1,1,D,J Moss,7,13,4,3,2,2,0,0,2.7,3.25,2.9
+259,22/02/14,Arsenal,Sunderland,4,1,H,A Marriner,12,7,9,3,0,1,0,0,1.33,5.5,11
+260,22/02/14,Cardiff City,Hull City,0,4,A,H Webb,23,12,5,6,1,1,0,0,2.75,3.2,2.88
+261,22/02/14,Chelsea,Everton,1,0,H,L Probert,25,8,8,2,1,2,0,0,1.57,4,7
+262,22/02/14,Crystal Palace,Manchester United,0,2,A,M Oliver,15,14,6,5,0,2,0,0,6.5,4,1.6
+263,22/02/14,Manchester City,Stoke City,1,0,H,C Foy,19,7,7,2,3,1,0,0,1.18,8,19
+264,22/02/14,West Brom,Fulham,1,1,D,M Dean,16,7,5,3,3,3,0,0,1.8,3.9,4.75
+265,22/02/14,West Ham United,Southampton,3,1,H,M Clattenburg,10,25,5,5,0,1,0,0,3.2,3.4,2.4
+266,23/02/14,Liverpool,Swansea City,4,3,H,M Jones,21,14,10,5,1,0,0,0,1.3,5.75,12
+267,23/02/14,Newcastle United,Aston Villa,1,0,H,M Atkinson,23,10,5,2,2,2,0,0,2.1,3.4,3.9
+268,23/02/14,Norwich City,Tottenham Hotspur,1,0,H,C Pawson,13,9,3,2,1,3,0,0,3.8,3.5,2.1
+269,1/3/14,Everton,West Ham United,1,0,H,J Moss,22,6,3,1,1,1,0,0,1.53,4.2,7.5
+270,1/3/14,Fulham,Chelsea,1,3,A,M Clattenburg,7,17,3,8,2,1,0,0,8,4.75,1.45
+271,1/3/14,Hull City,Newcastle United,1,4,A,K Friend,13,17,3,7,3,2,0,0,2.45,3.2,3.3
+272,1/3/14,Southampton,Liverpool,0,3,A,L Probert,13,12,2,5,1,2,0,0,3.75,3.75,2.05
+273,1/3/14,Stoke City,Arsenal,1,0,H,M Jones,8,10,4,2,3,1,0,0,5.5,3.8,1.73
+274,2/3/14,Aston Villa,Norwich City,4,1,H,A Taylor,10,7,4,4,0,3,0,0,2.1,3.4,3.9
+275,2/3/14,Swansea City,Crystal Palace,1,1,D,M Dean,7,7,5,4,1,4,1,0,1.85,3.5,5
+276,2/3/14,Tottenham Hotspur,Cardiff City,1,0,H,P Dowd,15,8,6,2,1,3,0,0,1.33,5.25,12
+277,8/3/14,Cardiff City,Fulham,3,1,H,M Atkinson,19,14,9,6,1,0,0,0,2.35,3.5,3.2
+278,8/3/14,Chelsea,Tottenham Hotspur,4,0,H,M Oliver,12,6,4,2,2,3,0,1,1.57,4,7
+279,8/3/14,Crystal Palace,Southampton,0,1,A,H Webb,6,11,1,3,1,5,0,0,3.9,3.3,2.15
+280,8/3/14,Norwich City,Stoke City,1,1,D,A Marriner,13,6,5,3,0,2,0,1,2.25,3.3,3.6
+281,8/3/14,West Brom,Manchester United,0,3,A,J Moss,14,14,3,5,1,2,0,0,5,3.6,1.83
+282,15/03/14,Aston Villa,Chelsea,1,0,H,C Foy,13,15,4,2,4,0,0,2,7,4.33,1.53
+283,15/03/14,Everton,Cardiff City,2,1,H,R East,19,10,6,3,1,3,0,0,1.36,5,11
+284,15/03/14,Fulham,Newcastle United,1,0,H,H Webb,12,12,3,3,1,0,0,0,2.9,3.4,2.6
+285,15/03/14,Hull City,Manchester City,0,2,A,L Mason,15,8,5,3,2,2,0,1,6.5,4.33,1.57
+286,15/03/14,Southampton,Norwich City,4,2,H,K Friend,16,6,6,3,1,2,0,0,1.62,4,6.5
+287,15/03/14,Stoke City,West Ham United,3,1,H,C Pawson,17,8,9,2,1,1,0,0,2.25,3.3,3.6
+288,15/03/14,Sunderland,Crystal Palace,0,0,D,N Swarbrick,19,12,2,5,4,4,0,0,2.15,3.3,3.9
+289,15/03/14,Swansea City,West Brom,1,2,A,M Atkinson,15,13,4,4,1,3,0,0,1.95,3.6,4.33
+290,16/03/14,Manchester United,Liverpool,0,3,A,M Clattenburg,13,17,1,7,1,4,1,0,2.5,3.6,2.9
+291,16/03/14,Tottenham Hotspur,Arsenal,0,1,A,M Dean,17,7,2,3,5,3,0,0,3.1,3.4,2.45
+292,22/03/14,Cardiff City,Liverpool,3,6,A,N Swarbrick,9,19,3,9,2,3,0,0,9.5,5.25,1.36
+293,22/03/14,Chelsea,Arsenal,6,0,H,A Marriner,21,12,11,5,0,1,0,1,1.85,3.6,4.75
+294,22/03/14,Everton,Swansea City,3,2,H,M Oliver,9,21,6,7,0,0,0,0,1.67,3.9,6
+295,22/03/14,Hull City,West Brom,2,0,H,C Foy,12,17,5,4,2,0,0,0,2.25,3.3,3.6
+296,22/03/14,Manchester City,Fulham,5,0,H,J Moss,22,6,12,0,0,3,0,1,1.17,9,17
+297,22/03/14,Newcastle United,Crystal Palace,1,0,H,L Probert,21,8,8,1,0,1,0,0,1.85,3.6,4.75
+298,22/03/14,Norwich City,Sunderland,2,0,H,P Dowd,14,10,8,2,2,4,0,1,2.2,3.3,3.75
+299,22/03/14,West Ham United,Manchester United,0,2,A,L Mason,10,16,1,7,2,1,0,0,4.5,3.6,1.91
+300,23/03/14,Aston Villa,Stoke City,1,4,A,M Clattenburg,12,10,3,5,5,1,0,0,2.2,3.3,3.75
+301,23/03/14,Tottenham Hotspur,Southampton,3,2,H,A Taylor,15,12,6,4,1,2,0,0,2.25,3.4,3.5
+302,25/03/14,Arsenal,Swansea City,2,2,D,L Probert,13,8,4,2,0,1,0,0,1.57,4.2,6.5
+303,25/03/14,Manchester United,Manchester City,0,3,A,M Oliver,10,13,4,4,2,2,0,0,3.5,3.6,2.15
+304,25/03/14,Newcastle United,Everton,0,3,A,L Mason,16,8,3,6,0,1,0,0,3.5,3.4,2.25
+305,26/03/14,Liverpool,Sunderland,2,1,H,K Friend,21,12,7,4,0,2,0,0,1.17,9,19
+306,26/03/14,West Ham United,Hull City,2,1,H,M Dean,9,10,3,3,0,1,0,1,2.4,3.3,3.3
+307,29/03/14,Arsenal,Manchester City,1,1,D,M Dean,10,15,3,4,1,4,0,0,3.6,3.5,2.15
+308,29/03/14,Crystal Palace,Chelsea,1,0,H,L Mason,14,21,4,2,4,1,0,0,10,4.75,1.4
+309,29/03/14,Manchester United,Aston Villa,4,1,H,M Atkinson,9,10,6,1,2,4,0,0,1.45,4.75,8
+310,29/03/14,Southampton,Newcastle United,4,0,H,A Marriner,23,5,11,2,0,1,0,0,1.75,3.8,5.25
+311,29/03/14,Stoke City,Hull City,1,0,H,N Swarbrick,15,5,3,3,2,0,0,0,2.15,3.3,3.9
+312,29/03/14,Swansea City,Norwich City,3,0,H,J Moss,16,8,7,4,1,2,0,0,1.73,3.9,5.25
+313,29/03/14,West Brom,Cardiff City,3,3,D,M Oliver,16,11,6,5,1,1,0,0,1.83,3.75,4.75
+314,30/03/14,Fulham,Everton,1,3,A,A Taylor,23,14,8,7,1,2,0,0,5,3.75,1.8
+315,30/03/14,Liverpool,Tottenham Hotspur,4,0,H,P Dowd,11,15,5,4,0,2,0,0,1.48,4.75,7.5
+316,31/03/14,Sunderland,West Ham United,1,2,A,H Webb,26,11,7,6,2,4,0,0,2.3,3.3,3.5
+317,5/4/14,Aston Villa,Fulham,1,2,A,M Oliver,12,16,6,8,3,2,0,0,2.05,3.5,4
+318,5/4/14,Cardiff City,Crystal Palace,0,3,A,P Dowd,13,13,4,8,2,4,0,0,2.45,3.25,3.25
+319,5/4/14,Chelsea,Stoke City,3,0,H,L Probert,18,4,8,2,0,0,0,0,1.29,6,13
+320,5/4/14,Hull City,Swansea City,1,0,H,H Webb,8,12,4,2,0,2,0,0,2.75,3.3,2.8
+321,5/4/14,Manchester City,Southampton,4,1,H,C Foy,15,5,8,1,3,0,0,0,1.33,5.75,10
+322,5/4/14,Newcastle United,Manchester United,0,4,A,K Friend,14,8,4,4,1,0,0,0,4.2,3.7,1.95
+323,5/4/14,Norwich City,West Brom,0,1,A,M Clattenburg,12,8,4,5,1,0,0,0,2.4,3.3,3.25
+324,6/4/14,Everton,Arsenal,3,0,H,M Atkinson,14,15,8,5,1,2,0,0,2.5,3.4,3
+325,6/4/14,West Ham United,Liverpool,1,2,A,A Taylor,11,17,1,8,4,0,0,0,9,5,1.4
+326,7/4/14,Tottenham Hotspur,Sunderland,5,1,H,L Mason,29,8,11,4,0,2,0,0,1.57,4.2,6.5
+327,12/4/14,Crystal Palace,Aston Villa,1,0,H,H Webb,14,7,4,4,0,2,0,0,2.15,3.3,3.9
+328,12/4/14,Fulham,Norwich City,1,0,H,M Dean,14,13,3,3,1,3,0,0,2.15,3.5,3.6
+329,12/4/14,Southampton,Cardiff City,0,1,A,J Moss,19,6,7,4,0,0,0,0,1.45,4.75,8
+330,12/4/14,Stoke City,Newcastle United,1,0,H,M Jones,10,13,3,1,1,1,0,0,2.1,3.4,3.9
+331,12/4/14,Sunderland,Everton,0,1,A,L Probert,24,20,6,3,3,1,0,0,4.75,3.7,1.83
+332,12/4/14,West Brom,Tottenham Hotspur,3,3,D,N Swarbrick,6,20,5,8,4,2,0,0,3.1,3.6,2.38
+333,13/04/14,Liverpool,Manchester City,3,2,H,M Clattenburg,10,13,4,5,1,3,1,0,2.45,3.7,2.9
+334,13/04/14,Swansea City,Chelsea,0,1,A,P Dowd,7,26,4,3,0,2,1,0,5,3.6,1.83
+335,15/04/14,Arsenal,West Ham United,3,1,H,K Friend,14,12,8,2,2,2,0,0,1.4,5,9
+336,16/04/14,Everton,Crystal Palace,2,3,A,A Marriner,17,7,5,4,1,2,0,0,1.4,4.75,10
+337,16/04/14,Manchester City,Sunderland,2,2,D,M Atkinson,16,11,4,3,1,2,0,0,1.17,9,17
+338,19/04/14,Aston Villa,Southampton,0,0,D,L Mason,6,3,1,2,0,2,0,0,3.4,3.4,2.1
+339,19/04/14,Cardiff City,Stoke City,1,1,D,H Webb,13,14,4,5,2,3,0,0,2.38,3.2,3
+340,19/04/14,Chelsea,Sunderland,1,2,A,M Dean,31,7,15,3,1,2,0,0,1.18,7,13
+341,19/04/14,Newcastle United,Swansea City,1,2,A,C Foy,14,10,4,2,2,0,0,0,2.63,3.3,2.6
+342,19/04/14,Tottenham Hotspur,Fulham,3,1,H,L Probert,14,11,5,4,0,1,0,0,1.5,4.2,6.5
+343,19/04/14,West Ham United,Crystal Palace,0,1,A,M Atkinson,13,11,4,3,1,1,0,0,2.2,3.2,3.4
+344,20/04/14,Everton,Manchester United,2,0,H,M Clattenburg,17,9,5,2,2,2,0,0,2.4,3.4,2.8
+345,20/04/14,Hull City,Arsenal,0,3,A,J Moss,13,12,4,6,1,1,0,0,4.5,3.6,1.8
+346,20/04/14,Norwich City,Liverpool,2,3,A,A Marriner,13,14,5,6,3,2,0,0,8.5,5,1.33
+347,21/04/14,Manchester City,West Brom,3,1,H,P Dowd,19,10,6,3,1,1,0,0,1.2,7,11
+348,26/04/14,Fulham,Hull City,2,2,D,L Mason,10,8,3,4,1,3,0,0,2.3,3.4,3.4
+349,26/04/14,Manchester United,Norwich City,4,0,H,L Probert,25,9,11,2,1,1,0,0,1.36,5.25,9.5
+350,26/04/14,Southampton,Everton,2,0,H,M Oliver,14,9,4,2,0,2,0,0,2.8,3.5,2.6
+351,26/04/14,Stoke City,Tottenham Hotspur,0,1,A,A Marriner,17,16,3,4,1,2,1,0,3.2,3.4,2.38
+352,26/04/14,Swansea City,Aston Villa,4,1,H,M Clattenburg,11,11,8,3,1,3,0,0,1.7,3.75,6
+353,26/04/14,West Brom,West Ham United,1,0,H,M Dean,19,9,6,3,0,1,0,0,1.91,3.75,4.33
+354,27/04/14,Crystal Palace,Manchester City,0,2,A,H Webb,3,16,2,6,3,1,0,0,7.5,5,1.44
+355,27/04/14,Liverpool,Chelsea,0,2,A,M Atkinson,26,11,8,4,0,4,0,0,1.67,4.2,5.25
+356,27/04/14,Sunderland,Cardiff City,4,0,H,P Dowd,21,6,7,1,5,3,0,1,1.91,3.75,4.33
+357,28/04/14,Arsenal,Newcastle United,3,0,H,N Swarbrick,20,8,8,3,3,2,0,0,1.29,6,12
+358,3/5/14,Aston Villa,Hull City,3,1,H,M Dean,15,7,9,2,0,0,0,0,2.5,3.3,3.1
+359,3/5/14,Everton,Manchester City,2,3,A,L Probert,9,18,4,6,0,3,0,0,5,4,1.75
+360,3/5/14,Manchester United,Sunderland,0,1,A,H Webb,17,8,2,1,2,1,0,0,1.36,5.75,8.5
+361,3/5/14,Newcastle United,Cardiff City,3,0,H,M Atkinson,22,16,6,3,1,0,0,0,2.05,3.6,3.8
+362,3/5/14,Stoke City,Fulham,4,1,H,C Foy,23,10,8,2,0,2,0,0,2.3,3.6,3.25
+363,3/5/14,Swansea City,Southampton,0,1,A,A Taylor,12,18,3,4,1,1,0,0,2.5,3.4,3
+364,3/5/14,West Ham United,Tottenham Hotspur,2,0,H,P Dowd,20,12,8,3,0,4,0,1,4.33,3.75,1.91
+365,4/5/14,Arsenal,West Brom,1,0,H,M Jones,15,11,4,1,2,2,0,0,1.29,6,13
+366,4/5/14,Chelsea,Norwich City,0,0,D,N Swarbrick,23,6,4,3,1,3,0,0,1.2,7.5,17
+367,5/5/14,Crystal Palace,Liverpool,3,3,D,M Clattenburg,10,26,6,9,2,3,0,0,9,5,1.4
+368,6/5/14,Manchester United,Hull City,3,1,H,C Pawson,18,2,7,2,1,1,0,0,1.36,5.5,9
+369,7/5/14,Manchester City,Aston Villa,4,0,H,M Oliver,18,5,9,0,1,2,0,0,1.14,9.5,21
+370,7/5/14,Sunderland,West Brom,2,0,H,L Mason,10,13,4,3,0,0,0,0,2.1,3.2,4.2
+371,11/5/14,Cardiff City,Chelsea,1,2,A,M Oliver,10,28,4,7,1,2,0,0,8,4.75,1.44
+372,11/5/14,Fulham,Crystal Palace,2,2,D,K Friend,15,15,5,6,3,1,0,0,2.63,3.5,2.8
+373,11/5/14,Hull City,Everton,0,2,A,H Webb,12,11,3,4,0,1,0,0,4,3.6,2
+374,11/5/14,Liverpool,Newcastle United,2,1,H,P Dowd,13,8,5,2,1,3,0,2,1.22,7.5,13
+375,11/5/14,Manchester City,West Ham United,2,0,H,M Atkinson,28,3,7,0,2,2,0,0,1.17,9,17
+376,11/5/14,Norwich City,Arsenal,0,2,A,L Mason,11,14,5,8,1,0,0,0,4.5,3.8,1.85
+377,11/5/14,Southampton,Manchester United,1,1,D,M Dean,15,8,6,2,3,2,0,0,2.63,3.5,2.8
+378,11/5/14,Sunderland,Swansea City,1,3,A,C Foy,20,8,4,4,2,3,0,0,2.3,3.4,3.4
+379,11/5/14,Tottenham Hotspur,Aston Villa,3,0,H,J Moss,12,4,6,1,1,0,0,0,1.5,4.5,7.5
+380,11/5/14,West Brom,Stoke City,1,2,A,L Probert,17,15,4,4,0,0,0,0,2.1,3.6,3.75
